@@ -1,5 +1,8 @@
 # Lab 3: Introduction to Arrays
 
+# Click 'index.html' to run me
+[index.html](https://hjoseph777.github.io/Lab3_Intro_ArrayJavascript/)
+
 ## Objective
 In this lab, you will explore the fundamentals of arrays in JavaScript, including how to declare arrays, access and manipulate their elements using methods, iterate through arrays, and destructure them. By the end of this lab, you should be able to work with arrays effectively and understand their common use cases in programming.
 
