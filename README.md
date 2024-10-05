@@ -1,6 +1,6 @@
 # Lab 3: Introduction to Arrays
 
-# Click 'index.html' to run me
+### Click 'index.html' to run me
 [index.html](https://hjoseph777.github.io/Lab3_Intro_ArrayJavascript/)
 
 ## Objective
